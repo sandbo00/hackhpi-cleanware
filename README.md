@@ -7,7 +7,7 @@ Make the world a better place
 ## Goals
 
 1. Use as much renewable energy as possible
-2. As little movment as possivle for high priority tasks
+2. As little movement as possible for high priority tasks
 
 ## Modules
 
@@ -16,7 +16,7 @@ Run the project:
 1. `git clone https://github.com/lennart1s/hackhpi-cleanware/`
 2. `sudo docker-compose up`
 
-### Weather to kilowats
+### Weather to kilowatts
 
 1.    `docker build -t weatherkw .`
 2.   `docker run -p 8000:8000 -t weatherkw -d`
